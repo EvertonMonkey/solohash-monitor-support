@@ -10,8 +10,8 @@ body:
     id: version
     attributes:
       label: Version
-      description: What version of the app/website are you using?
-      placeholder: e.g. v1.2.3
+      description: What version of the app are you using? Check app about page at the bottom ...
+      placeholder: e.g. v1.0.2
     validations:
       required: true
   - type: textarea
